@@ -17,3 +17,10 @@ Functions of the traffic light system: (cycled through using a pushbutton)
   - can be used to debug the sonar distance photocell brightness telemetry
 - Global Features
   - Using a photocell, LED brightness is dynamically changed relative to environmental brightness
+
+Top-View
+![Top-View](https://github.com/Budgettt/Arduino_Traffic_Light/blob/579e3b49b515cb10299b0155dfe32c6954ddcf9b/images/PXL_1129038372.jpg)
+Front-View
+![](https://github.com/Budgettt/Arduino_Traffic_Light/blob/579e3b49b515cb10299b0155dfe32c6954ddcf9b/images/PXL_1128054652.jpg)
+Back-View
+![](https://github.com/Budgettt/Arduino_Traffic_Light/blob/579e3b49b515cb10299b0155dfe32c6954ddcf9b/images/PXL_1128264592.jpg)
