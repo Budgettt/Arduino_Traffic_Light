@@ -1,4 +1,4 @@
-# traffic_light
+# Arduino_Traffic_Light
 
 This is a personal project using the Arduino Uno R3 to simulate a traffic light system. The main goal was to learn about embedded systems whlist coding in C rather than using the encapsulated functions provided by Arduino.
 
@@ -15,3 +15,5 @@ Functions of the traffic light system: (cycled through using a pushbutton)
 - Debugging Mode
   - using the 'Serial Monitor' extension by Microsoft, users can debug the traffic light system through USART
   - can be used to debug the sonar distance photocell brightness telemetry
+- Global Features
+  - Using a photocell, LED brightness is dynamically changed relative to environmental brightness
